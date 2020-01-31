@@ -1,20 +1,48 @@
-# Security Policy
+# Vulnerability Disclosure Policy
+Security is one of the top priorities at Xpring, and we value the security community. The responsible disclosure of vulnerabilities helps us ensure the security and privacy of users of the project. 
 
-## Responsible disclosure security policy
+## Guidelines
+We expect all researchers to:
 
-The responsible disclosure of vulnerabilities helps to protect users of the project. Vulnerabilities are first triaged in a private manner, and only publicly disclosed after a reasonable time period that allows patching the vulnerability and provides an upgrade path for users.
+1. Refrain from malicious acts that put our users, the project, or any of the project's team members at risk.
 
-When contacting us directly via email, we will do our best to respond in a reasonable time to resolve the issue. Do not disclose the vulnerability until it has been patched and users have been given time to upgrade.
+2. Perform research only within the scope set out below.
 
-We kindly ask you to refrain from malicious acts that put our users, the project, or any of the project’s team members at risk.
+3. Use the identified secure communication channels mentioned below to report vulnerability information to us; and
 
-## Reporting a security issue
+4. Keep information about any vulnerabilities that you’ve discovered confidential between yourself and Xpring until we’ve had (90) days to resolve the issue.
 
-Security is a top priority. But no matter how much effort we put into security, there can still be vulnerabilities present.
+## Reporting a security vulnerability
+If you believe you’ve discovered a security vulnerability in one of our repositories, please use the following means of communications to report it to us:
 
-If you discover a security vulnerability, please use the following means of communications to report it to us:
+Send an email to **TODO**: Email address with subject [Security Vulnerability] <Brief Description>.
 
-- Report the security issue to <a href="mailto:bugs@ripple.com">bugs@ripple.com</a>
-- [Ripple Bug Bounty](https://ripple.com/bug-bounty/)
+**Please include the following details with your report:**
+1. Description and potential impact of the vulnerability.
 
-Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions.
+2. A detailed description of:
+- The steps required to reproduce the vulnerability (Proof-of-Concept scripts, screenshots, etc)
+<!-- 
+TODO(https://app.asana.com/0/1143722888069470/1159875324910573): Enable when we have a hall of fame.
+- (Optionally) Your name/handle and a link for recognition in our Hall of Fame
+-->
+
+<!--
+TODO(https://app.asana.com/0/1143722888069470/1159875324910571): Enable when we have a public key. 
+Please make sure to communicate the above information in encrypted form using our [Public key].
+-->
+
+**If you follow these guidelines when reporting an issue to us, we commit to:**
+1. Not pursue or support any legal action related to your research.
+
+2. Provide an initial confirmation of your report within 72 hours of submission.
+
+3. Work with you to understand and resolve the issue quickly.
+
+<!-- 
+TODO(https://app.asana.com/0/1143722888069470/1159875324910573): Enable when we have a hall of fame.
+4. Recognize your contribution on our Security Researcher Hall of Fame, if you are the first to report the issue and we make a code or configuration change based on the issue.
+-->
+
+## Scope
+This policy applies to all public repositories inside of the [xpring-eng GitHub organization](https://github.com/xpring-eng).

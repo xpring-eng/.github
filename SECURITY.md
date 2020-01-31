@@ -15,7 +15,7 @@ We expect all researchers to:
 ## Reporting a security vulnerability
 If you believe you’ve discovered a security vulnerability in one of our repositories, please use the following means of communications to report it to us:
 
-Send an email to **TODO**: Email address with subject [Security Vulnerability] <Brief Description>.
+Send an email to [bugs@ripple.com](mailto: bugs@ripple.com) with subject [Security Vulnerability] <Brief Description>.
 
 **Please include the following details with your report:**
 1. Description and potential impact of the vulnerability.

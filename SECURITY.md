@@ -12,7 +12,7 @@ We expect all researchers to:
 
 3. Use the identified secure communication channels mentioned below to report vulnerability information to us; and
 
-4. Keep information about any vulnerabilities that you’ve discovered confidential between yourself and Xpring until we’ve had (90) days to resolve the issue.
+4. Keep information about any vulnerabilities that you’ve discovered confidential between yourself and Xpring until we’ve had 90 days to resolve the issue.
 
 ## Reporting a security vulnerability
 

@@ -28,6 +28,7 @@ Please check relevant options, delete irrelevant ones.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Refactor (non-breaking change that only restructures code)
 - [ ] Documentation Updates
+- [ ] Release
 
 ## Before / After
 
